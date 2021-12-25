@@ -1,7 +1,10 @@
 class hello
 {
     public static void public static void main(String[] args) {
-        System.out.println("heello");
+       jnknmnkn
+           bnkj
+           bj
+           bjh
         c=a+b;
     }
 }
